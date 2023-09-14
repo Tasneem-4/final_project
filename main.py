@@ -6,6 +6,7 @@ Delivery Date : 31/8/2023
 import uuid
 
 
+
 # TODO 2
 class Course:
     def __init__(self,course_name, course_mark):
